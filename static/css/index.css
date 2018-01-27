@@ -1,0 +1,52 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.head{
+	width: 60%; 
+	margin: 0 auto; 
+	background: gray; 
+	padding: 10px; 
+	text-align: center; 
+	box-sizing: border-box;
+}
+
+.text_box{
+	width: 60%; 
+	margin: 0 auto; 
+	border: 1px solid gray; 
+	padding: 10px; 
+	box-sizing: border-box;
+}
+
+.footer{
+	width: 60%; 
+	margin: 0 auto; 
+	background: gray; 
+	padding: 10px; 
+	text-align: center; 
+	box-sizing: border-box;
+}
+.menu{
+	float: left; 
+	width: 20%; 
+	border: 1px solid gray;
+	padding: 5px;
+	box-sizing: border-box;
+}
+ul{
+	margin: 0;
+	padding: 0;
+}
+ul li{
+	list-style-type: none;
+	margin-left: 10px;
+}
+a{
+	color: blue;
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+}
